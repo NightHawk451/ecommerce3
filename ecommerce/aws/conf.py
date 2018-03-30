@@ -4,8 +4,8 @@ import os
 AWS_GROUP_NAME = "ecommerce"
 AWS_USERNAME = "ecommerce-user"
 
-AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID","")
-AWS_SECRET_ACCESS_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY","")
+AWS_ACCESS_KEY_ID = os.environ.get("AWS_ACCESS_KEY_ID","a")
+AWS_SECRET_ACCESS_KEY = os.environ.get("AWS_SECRET_ACCESS_KEY","a")
 
 AWS_FILE_EXPIRE = 200
 AWS_PRELOAD_METADATA = True

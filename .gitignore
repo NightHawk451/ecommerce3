@@ -10,6 +10,7 @@ pip-selfcheck.json
 # Django related 
 ecommerce/settings/local.py
 ecommerce/settings/local_micah.py
+ecommerce/aws/conf.py
 # src/<yourproject>/settings/local.py
 # static-cdn/  # any collected static files 
 
